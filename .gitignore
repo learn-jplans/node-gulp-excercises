@@ -15,7 +15,7 @@
 
 # OS generated files #
 ######################
-._*
+#._*
 .Spotlight-V100
 .Trashes
 ehthumbs.db
